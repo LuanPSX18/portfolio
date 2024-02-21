@@ -12,8 +12,8 @@ Meu primeiro portfólio desenvolvido com os cursos de HTML e CSS da Alura
 
 ## Feito por:
 
-### Joana Santos
+### Luan Soares
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/luan-soares-83a638195/
 
 ```
